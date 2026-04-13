@@ -1,7 +1,11 @@
 ---
-title: Home
+title: Next Generation Keyboards
 layout: home
 permalink: /
 ---
 
-Description
+### Coming soon  
+
+Built to be used. Designed to be loved. 
+
+Powered by [Wonderboard](docs/wonderboard). 
