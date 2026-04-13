@@ -1,8 +1,6 @@
 ---
-title: Docs
+title: Documentation
 layout: page
 ---
 
-[Assembly](docs/assembly)
-
-[Building and Flashing](docs/building-and-flashing)
+[Wonderboard](docs/wonderboard)
