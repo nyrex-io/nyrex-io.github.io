@@ -1,16 +1,16 @@
 # Site-wide settings
 # ------------------
 #
-title: Nyrex Keyboards
+title: NYREX - Next Generation Keyboards
 #
 author:
-  name: Nyrex Keyboards
+  name: NYREX
 #   email: hello@nyrex.io
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Nyrex Keyboards.
+  NYREX.IO
 
 
 # Build settings
