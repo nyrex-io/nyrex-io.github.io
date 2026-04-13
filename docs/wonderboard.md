@@ -1,3 +1,5 @@
+# Wonderboard
+
 # Objective
 One standardized universal microcontroller board that can run any keyboard wirelessly. 
 
@@ -27,5 +29,5 @@ The inclusion of power pins and extra GPIOs grants support for peripheral compon
 The wonderboard can be installed facing up or down. This is accomplished by having a "mirrored" ribbon cable pinout, where ground, voltage, and toggleable voltage are mirrored on either end and all GPIOs are in the center, where pin assignments can be redefined in firmware.
 
 ## Easy access
-The wonderboard has its 40pin output available as both a reversible ribbon cable and as a 2 by 20 pad array. This means that in addition to the suggested ribbon cable connection, handwired boards and directly soldered shields are compatible.
+The wonderboard has its 40 pin output available as both a reversible ribbon cable and as a 2 by 20 pad array. This means that in addition to the suggested ribbon cable connection, handwired boards and directly soldered shields are compatible.
 
