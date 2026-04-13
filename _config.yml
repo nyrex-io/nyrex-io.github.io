@@ -1,16 +1,16 @@
 # Site-wide settings
 # ------------------
 #
-title: NYREX - Next Generation Keyboards
+title: NYREX.IO
 #
 author:
-  name: Nyrex Limited
+  name: NYREX.IO
 #   email: hello@nyrex.io
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  NYREX.IO
+  Type the future.
 
 
 # Build settings
@@ -54,7 +54,7 @@ minima:
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: auto
+  skin: classic
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
